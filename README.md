@@ -36,9 +36,9 @@ An IP intelligence analysis platform built on Chaitin's global honeypot network 
 ```json
 {
   "mcpServers": {
-    "@chaitin/ip-intelligence": {
+    "chaitin-ip-intelligence": {
       "isActive": true,
-      "name": "chaitin-intelligence",
+      "name": "chaitin-ip-intelligence",
       "description": "",
       "command": "npx",
       "args": [
