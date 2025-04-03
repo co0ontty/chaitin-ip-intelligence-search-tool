@@ -4,7 +4,7 @@
 </p>
 
 <h4 align="center">
-  Chaitin IP Intelligence - helps you check IP reputations and supports direct subscription to complete malicious IP databases  
+  help you check IP reputations and supports direct subscription to complete malicious IP databases  
 </h4>
 
 <p align="center">
