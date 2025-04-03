@@ -12,6 +12,7 @@
   <a target="_blank" href="https://ly.safepoint.cloud/PLMm29N">🔍 Online Search</a>
 </p>
 
+[![smithery badge](https://smithery.ai/badge/@co0ontty/chaitin-ip-intelligence-search-tool)](https://smithery.ai/server/@co0ontty/chaitin-ip-intelligence-search-tool)
 ## 项目介绍 / Project Introduction
 
 长亭 IP 智能查询服务  
