@@ -9,7 +9,7 @@
 
 <p align="center">
   <a target="_blank" href="https://ly.safepoint.cloud/HTogt8r">🏠 Website</a> &nbsp; | &nbsp;
-  <a target="_blank" href="https://ly.safepoint.cloud/PLMm29N">🔍 Live Demo</a>
+  <a target="_blank" href="https://ly.safepoint.cloud/PLMm29N">🔍 Online Search</a>
 </p>
 
 ## 项目介绍 / Project Introduction
